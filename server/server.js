@@ -1,8 +1,15 @@
 module.exports = function() {
+  var fs = require('fs');
+  var spdyOptions = {
+    key: fs.readFileSync('keys/server.key'),
+    cert: fs.readFileSync('keys/server.crt')
+  };
+
   var express = require('express')
     , resource = require('express-resource-new')
     , app = express()
-    , server = require('http').createServer(app)
+    , server = require('spdy').createServer(spdyOptions, app)
+    //, server = require('http  ').createServer(app)
     , io = require('socket.io').listen(server)
     , passport = require('passport')
     , path = require('path')

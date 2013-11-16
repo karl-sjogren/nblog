@@ -13,7 +13,8 @@
     "passport-twitter": "~1.0.2",
     "mongoose-query-paginate": "~1.0.1",
     "nodetime": "~0.8.14",
-    "newrelic": "~1.1.1"
+    "newrelic": "~1.1.1",
+    "spdy": "~1.16.3"
   },
   "engines": {
     "node": "0.10.x",
