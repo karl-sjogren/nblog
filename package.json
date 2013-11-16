@@ -12,7 +12,8 @@
     "passport-facebook": "~1.0.2",
     "passport-twitter": "~1.0.2",
     "mongoose-query-paginate": "~1.0.1",
-    "nodetime": "~0.8.14"
+    "nodetime": "~0.8.14",
+    "newrelic": "~1.1.1"
   },
   "engines": {
     "node": "0.10.x",
