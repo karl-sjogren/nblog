@@ -1,0 +1,35 @@
+{"name":"newrelic","hostname":"wizard","pid":3200,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-11-16T09:24:11.580Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":3200,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/489274/applications/2712154","time":"2013-11-16T09:24:12.611Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":3200,"component":"connection","level":30,"msg":"Connected to collector-1.newrelic.com:80 with agent run ID 668037822.","time":"2013-11-16T09:24:12.612Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":3200,"level":30,"msg":"Configuration of product_level was changed to 40 by New Relic.","time":"2013-11-16T09:24:12.613Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":3200,"level":30,"msg":"Configuration of application_id was changed to 2712154 by New Relic.","time":"2013-11-16T09:24:12.615Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":3200,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-11-16T09:39:08.538Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":3200,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/489274/applications/2712154","time":"2013-11-16T09:39:09.595Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":3200,"component":"connection","level":30,"msg":"Connected to collector-1.newrelic.com:80 with agent run ID 668052560.","time":"2013-11-16T09:39:09.596Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":3200,"level":30,"msg":"Configuration of product_level was changed to 40 by New Relic.","time":"2013-11-16T09:39:09.597Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":3200,"level":30,"msg":"Configuration of application_id was changed to 2712154 by New Relic.","time":"2013-11-16T09:39:09.599Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":7268,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-11-16T09:39:38.519Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":7268,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/489274/applications/2712154","time":"2013-11-16T09:39:39.550Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":7268,"component":"connection","level":30,"msg":"Connected to collector-1.newrelic.com:80 with agent run ID 668053026.","time":"2013-11-16T09:39:39.551Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":7268,"level":30,"msg":"Configuration of product_level was changed to 40 by New Relic.","time":"2013-11-16T09:39:39.552Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":7268,"level":30,"msg":"Configuration of application_id was changed to 2712154 by New Relic.","time":"2013-11-16T09:39:39.554Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":13276,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-11-16T09:39:45.736Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":13276,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/489274/applications/2712154","time":"2013-11-16T09:39:46.792Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":13276,"component":"connection","level":30,"msg":"Connected to collector-1.newrelic.com:80 with agent run ID 668053138.","time":"2013-11-16T09:39:46.793Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":13276,"level":30,"msg":"Configuration of product_level was changed to 40 by New Relic.","time":"2013-11-16T09:39:46.794Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":13276,"level":30,"msg":"Configuration of application_id was changed to 2712154 by New Relic.","time":"2013-11-16T09:39:46.796Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":10400,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-11-16T09:45:13.671Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":10400,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/489274/applications/2712154","time":"2013-11-16T09:45:14.726Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":10400,"component":"connection","level":30,"msg":"Connected to collector-1.newrelic.com:80 with agent run ID 668058814.","time":"2013-11-16T09:45:14.727Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":10400,"level":30,"msg":"Configuration of product_level was changed to 40 by New Relic.","time":"2013-11-16T09:45:14.728Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":10400,"level":30,"msg":"Configuration of application_id was changed to 2712154 by New Relic.","time":"2013-11-16T09:45:14.730Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":4748,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-11-16T13:06:49.924Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":4748,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/489274/applications/2712154","time":"2013-11-16T13:06:51.307Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":4748,"component":"connection","level":30,"msg":"Connected to collector-1.newrelic.com:80 with agent run ID 668283092.","time":"2013-11-16T13:06:51.307Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":4748,"level":30,"msg":"Configuration of product_level was changed to 40 by New Relic.","time":"2013-11-16T13:06:51.307Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":4748,"level":30,"msg":"Configuration of application_id was changed to 2712154 by New Relic.","time":"2013-11-16T13:06:51.309Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":14472,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-11-16T13:36:36.651Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":14472,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/489274/applications/2712154","time":"2013-11-16T13:36:37.691Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":14472,"component":"connection","level":30,"msg":"Connected to collector-1.newrelic.com:80 with agent run ID 668319570.","time":"2013-11-16T13:36:37.692Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":14472,"level":30,"msg":"Configuration of product_level was changed to 40 by New Relic.","time":"2013-11-16T13:36:37.692Z","v":0}
+{"name":"newrelic","hostname":"wizard","pid":14472,"level":30,"msg":"Configuration of application_id was changed to 2712154 by New Relic.","time":"2013-11-16T13:36:37.693Z","v":0}
